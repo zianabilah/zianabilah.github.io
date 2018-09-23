@@ -1,0 +1,233 @@
+body{
+    width: 100%;
+    margin: auto;
+    padding: 0%;
+    background: pink; 
+
+}
+
+header{
+    width: 100%;
+    height: 70px;
+    background: silver;
+    overflow: hidden;
+    position: fixed;
+}
+
+#logo img{
+    float: left;
+    padding: 0;
+    padding-left: 50px;
+    opacity: 0.8;
+}
+
+header ul{
+    float: right;
+    padding-top: 30px;
+}
+
+header li{
+    text-decoration: none;
+    display: inline;
+    color: rgb(236, 27, 149);
+    
+}
+
+header a{
+    text-decoration: none;
+    color: rgb(236, 27, 149);
+    padding-left: 10px;
+    padding-right: 50px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-family: 'Patua One', cursive;
+    
+}
+
+.slideshow{
+    width: 100%;
+    height: 500px;
+    background: url('img/new.jpg')no-repeat;
+    background-position: center;
+}
+
+.slideshow img{
+    margin: auto;
+    padding: 50px; 
+    margin-left: 80px;
+    margin-top: 20px;
+    
+}
+.slideshow h1{
+    float: right;
+    margin-top: 200px;
+    margin-right: 100px;
+    font: italic;
+}
+
+#newsletter{
+    width: 100%;
+    height: 80px;
+    background: silver;
+    margin-bottom: 20px;
+    color: rgb(236, 27, 149);
+}
+
+#newsletter h1{
+    float: left;
+    padding-left: 80px;
+    padding-top: 25px;
+    margin: auto;
+    font-family: 'Spirax', cursive;
+    letter-spacing: 2px;
+}
+
+#newsletter form{
+    float: right;
+    padding-right: 150px;
+    padding-top: 20px;
+    margin: auto;
+}
+
+#newsletter input[type="text"]{
+    height: 35px;
+    width: 250px;
+    border-radius: 5px;
+    border: 0;
+}
+
+.button1{
+    padding: 7.5px;
+    height: 37px;
+    width: 100px;
+    border-radius: 5px;
+    border: 0;
+    background: rgb(236, 27, 149);
+    color: black;
+}
+
+.openword{
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+
+.openword p1{
+    font-family: 'Monoton', cursive;
+    font-size: 50px;
+    font-display: bold;
+    color: rgb(236, 27, 149);
+}
+
+
+
+
+#article{
+    width: 80%;
+    height:300px;
+    margin: auto;
+    display: flex;
+    background:silver;
+    background;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+
+.ourarcticle{
+
+
+}
+
+#README table{
+    width: 200px;
+    height: 200px;
+    background: rgb(255, 115, 208);
+    margin-bottom: 50px;
+    
+
+}
+
+#judularticle{
+    background: rgb(255, 96, 189);
+    color:rgb(87, 221, 214);
+    height: 50px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 30px;
+    letter-spacing: 2px;
+    border: 2px solid white;
+}
+
+#README button{
+    background:black;
+    color: rgb(236, 27, 149);
+    width: 200px;
+    height: 50px;
+    border: 0;
+    font-weight: 900;
+}
+
+.ourapp{
+    width: 100%;
+    height: 150px;
+    background: rgb(9, 125, 129);
+    color: rgb(236, 27, 149);
+}
+
+#ourapp{
+    float: left;
+    padding-top: 55px;
+    padding-left: 100px;
+    font-family: 'Rubik', sans-serif;
+    line-height: 20px;
+}
+
+.ourapp p4{
+    font-size: 20px;
+}
+#saya{
+    width: 99.8%;
+    height: auto;
+    margin: 0;
+    padding: auto;
+}
+#saya img{
+    float: top;
+    margin: 0;
+    
+}
+#saya h3{
+    float: top;
+    margin: 0;
+    padding: auto;
+   color:  rgb(161, 101, 136);
+    font-size: 18px;
+    width: 30%;
+    display: inline;
+    margin-bottom: 20px;
+}
+
+#sosmed{
+    height: 80px;
+}
+
+#sosmed .box{
+    float: right;
+    color: rgb(109, 109, 109);
+    margin-right: 50px;
+    margin-top: 60px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+
+footer{
+    padding: 1px;
+    background: rgb(27, 27, 27);
+    color: rgb(109, 109, 109);
+    text-align: center;
+}
