@@ -19,6 +19,7 @@ header{
     padding: 0;
     padding-left: 50px;
     opacity: 0.8;
+    padding-right: 50px;
 }
 
 header ul{
@@ -42,6 +43,13 @@ header a{
     letter-spacing: 2px;
     font-weight: bold;
     font-family: 'Patua One', cursive;
+    
+}
+#music{
+    margin-top: 10px;
+    margin-left: 00px;
+    width: 100%;
+    height: auto ;
     
 }
 
@@ -95,6 +103,8 @@ header a{
     width: 250px;
     border-radius: 5px;
     border: 0;
+    padding-right: 20px;
+    margin-right: 20px;
 }
 
 .button1{
