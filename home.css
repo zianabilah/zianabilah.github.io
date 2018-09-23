@@ -129,6 +129,16 @@ header a{
     font-display: bold;
     color: rgb(236, 27, 149);
 }
+.openword h2{ 
+    color: grey;
+    font-family: 'Didact Gothic', sans-serif;
+    border: 5px dotted rgb(236, 27, 149);
+    width: 99%;
+    height: auto;
+    margin:auto;
+    line-height: 50px;
+
+}
 
 
 
